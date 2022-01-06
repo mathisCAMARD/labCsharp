@@ -63,7 +63,7 @@ namespace Lab1
                 
             }
 
-            Console.WriteLine("Your change is : " + resultChange100 * change100 + " " + resultChange50 * change50 + " " + resultChange20 * change20 + " " + resultChange10 * change10 + " " + resultChange5 * change5 + " " + resultChange2 * change2 + " " + resultChange1 * change1 + " ");
+            
             str = resultStr(str);
             Console.WriteLine(str);
         }
