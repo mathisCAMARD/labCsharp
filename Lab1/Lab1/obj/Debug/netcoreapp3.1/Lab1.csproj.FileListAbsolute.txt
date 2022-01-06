@@ -1,0 +1,13 @@
+/Users/mathiscamard/Projects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/mathiscamard/Projects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/mathiscamard/Projects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/mathiscamard/Projects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/mathiscamard/Projects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.AssemblyReference.cache
+/Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+/Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+/Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
