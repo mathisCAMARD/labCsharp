@@ -11,3 +11,16 @@
 /Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
 /Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
 /Users/mathiscamard/Projects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
+/Users/mathiscamard/labCsharp/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/mathiscamard/labCsharp/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/mathiscamard/labCsharp/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/mathiscamard/labCsharp/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/mathiscamard/labCsharp/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/mathiscamard/labCsharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.AssemblyReference.cache
+/Users/mathiscamard/labCsharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathiscamard/labCsharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/mathiscamard/labCsharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/mathiscamard/labCsharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+/Users/mathiscamard/labCsharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/mathiscamard/labCsharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+/Users/mathiscamard/labCsharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache

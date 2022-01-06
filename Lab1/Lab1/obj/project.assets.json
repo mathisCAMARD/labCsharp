@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mathiscamard/Projects/Lab1/Lab1/Lab1.csproj",
+      "projectUniqueName": "/Users/mathiscamard/labCsharp/Lab1/Lab1/Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "/Users/mathiscamard/Projects/Lab1/Lab1/Lab1.csproj",
+      "projectPath": "/Users/mathiscamard/labCsharp/Lab1/Lab1/Lab1.csproj",
       "packagesPath": "/Users/mathiscamard/.nuget/packages/",
-      "outputPath": "/Users/mathiscamard/Projects/Lab1/Lab1/obj/",
+      "outputPath": "/Users/mathiscamard/labCsharp/Lab1/Lab1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mathiscamard/.config/NuGet/NuGet.Config"
